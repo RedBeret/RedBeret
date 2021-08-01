@@ -10,3 +10,7 @@ Hola, I'm RedBeret/Steve Espi 👋 A Senior Computer Systems Engineer by title b
 - ⚡ Fun fact: Live in a beach city
 
 <img src="https://github-readme-stats.vercel.app/api?username=RedBeret&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+[<img src="https://novatorem-hccy9f8uu-redberet.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Banny)
+
+[![Spotify](https://redberet.vercel.app/api/spotify)](https://open.spotify.com/user/Banny)
