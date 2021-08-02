@@ -9,7 +9,6 @@ A Senior Computer Systems Engineer by title but work on special projects that ar
 - 🤔 I’m looking for help with getting more projects under my belt and advancing my python skills
 - 💬 Ask me about project management, system architecture design
 - 📫 How to reach me: espisteven5@gmail.com
-- 📝 I regularly write articles on [https://medium.com/@RedBeret](https://medium.com/@RedBeret)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Live in a beach city
 
