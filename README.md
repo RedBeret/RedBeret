@@ -12,7 +12,10 @@ A Senior Computer Systems Engineer by title but work on special projects that ar
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Live in a beach city
 
-<img src="https://github-readme-stats.vercel.app/api?username=RedBeret&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+[![RedBeret's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/RedBeret/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBeret&layout=compact&theme=tokyonight)](https://github.com/RedBeret/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
