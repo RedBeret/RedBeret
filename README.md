@@ -32,4 +32,4 @@ A Senior Computer Systems Engineer by title but work on special projects that ar
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Spotify](https://spotty-jqqxlbcvd-redberet.vercel.app//api/spotify)](https://open.spotify.com/user/Banny)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=128714768&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
