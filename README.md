@@ -3,7 +3,7 @@
 
 A Senior Computer Systems Engineer by title but work on special projects that are solved with my skill of creative thinking and broad range of skills socially and technically. Project Management/Test Engineer/ Systems Engineer/ Network Engineer/ Programmer/ Data Analyst with a focus on process efficiency. With my high level skills tend to get pulled in that direction which is why I am here helping any way I can. I enjoy the technical development, the meat and potatoes that drive this world to progess forward. 
 
-- 🔭 I’m currently working on govt data metrics and process improvement
+- 🔭 I’m currently working as as subject matter expert in enterprise systems but this is what I love so don't tell my day job about my side piece.
 - 🌱 I’m currently learning python for data science as manual pivots are a hassle without data normalization
 - 👯 I’m looking to collaborate on any project for experience
 - 🤔 I’m looking for help with getting more projects under my belt and advancing my python skills
