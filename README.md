@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 👋, I'm RedBeret/Steven Espi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redberet&label=Profile%20views&color=0e75b6&style=flat" alt="redberet" /> </p>
 
-A Senior Computer Systems Engineer by title but work on special projects that are solved with my skill of creative thinking and broad range of skills socially and technically. Project Management/Test Engineer/ Systems Engineer/ Network Engineer/ Programmer/ Data Analyst with a focus on process efficiency. With my high level skills tend to get pulled in that direction which is why I am here helping any way I can. I enjoy the technical development, the meat and potatoes that drive this world to progess forward. 
+A Senior Network Engineer by title but work on special projects that are solved with creative thinking and broad range of skills socially and technically. Project Management/Test Engineer/ Systems Engineer/ Network Engineer/ Programmer/ Data Analyst with a focus on process efficiency. With my high level skills tend to get pulled in that direction which is why I am here helping any way I can. I enjoy the technical development, the meat and potatoes that drive this world to progess forward. That is essentially my day job but my passion for coding and it is foundational to everything I know and do. If you can program you can improve any process and create value. 
 
 - 🔭 I’m currently working as subject matter expert in enterprise systems engineering and integration.
 - 🌱 I’m currently learning python for data science as manual pivots are a hassle without data normalization
