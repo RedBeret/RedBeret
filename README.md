@@ -1,16 +1,27 @@
 <h1 align="center">Aloha 👋, I'm RedBeret/Steven Espi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redberet&label=Profile%20views&color=0e75b6&style=flat" alt="redberet" /> </p>
+🔍 As a Senior Systems Engineer, I thrive on taking up challenging projects that demand creative thinking and a diverse skillset. With expertise spanning Project Management, Test Engineering, Systems Engineering, Network Engineering, Programming, and Data Analysis, I'm a versatile professional driven by a passion for process efficiency.
+<p>
 
-A Senior Network Engineer by title but work on special projects that are solved with creative thinking and broad range of skills socially and technically. Project Management/Test Engineer/ Systems Engineer/ Network Engineer/ Programmer/ Data Analyst with a focus on process efficiency. With my high level skills tend to get pulled in that direction which is why I am here helping any way I can. I enjoy the technical development, the meat and potatoes that drive this world to progess forward. That is essentially my day job but my passion for coding and it is foundational to everything I know and do. If you can program you can improve any process and create value. 
+🛠️ Currently, I'm deeply engaged in a fascinating endeavor to enhance UI/UX design for test validation scripts and reports. My proactive approach led me to recognize an opportunity to assist backend developers by leveraging my skills and crafting sophisticated user interfaces that surpass basic HTML implementations.
 
-- 🔭 I’m currently working as subject matter expert in enterprise systems engineering and integration.
-- 🌱 I’m currently learning python for data science as manual pivots are a hassle without data normalization
-- 👯 I’m looking to collaborate on any project as I am quite enthusiastic about learning and contributing.
-- 🤔 I’m looking for help with getting more projects under my belt and advancing my python skills
-- 💬 Ask me about project management, system architecture design, networks, or process improvement
-- 📫 How to reach me: espisteven5@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Live in a beach city
+🤝 Collaboration is at the core of my work philosophy. I'm always enthusiastic about joining hands on any project as my love for coding fuels my eagerness to continuously learn and contribute to the dynamic tech community.
+
+💬 You're welcome to reach out and discuss topics like project management, system architecture design, networks, or process improvement with me, areas where I have honed my expertise.
+
+⚓ When it comes to my professional journey, I'm passionately dedicated to enterprise systems engineering and integration. The daily challenges of handling ten issues, five days a week, have sharpened my project management skills as I ensure seamless systems integration for ships on the ocean.
+
+📚 My continuous learning journey led me to complete "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu. Building an impressive portfolio of over 32+ websites, I mastered HTML5, CSS3, JavaScript, React, Node, and Web3 development, empowering me to tackle any web development challenge confidently.
+
+💡 Currently, I'm exploring advanced CSS through a Full Stack Udemy course, adding finesse to my ability to create visually captivating and responsive user interfaces. I'm thrilled to delve into JavaScript next, where I'll infuse dynamic functionalities into my projects.
+
+🚀 Proactivity, resourcefulness, and a drive to create a positive impact define my approach. I'm eager to connect and collaborate, ready to embark on exciting projects together!
+
+📫 How to reach me: espisteven5@gmail.com
+
+😄 Pronouns: He/His
+
+⚡ Fun fact: Live in a beach city
 
 [![RedBeret's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/RedBeret/github-readme-stats)
 
