@@ -1,4 +1,4 @@
-<h1 align="center">Aloha 👋, I'm RedBeret/Steven Espi</h1>
+![HEADER](./github-header-image.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redberet&label=Profile%20views&color=0e75b6&style=flat" alt="redberet" /> </p>
 🔍 As a Senior Systems Engineer, I thrive on taking up challenging projects that demand creative thinking and a diverse skillset. With expertise spanning Project Management, Test Engineering, Systems Engineering, Network Engineering, Programming, and Data Analysis, I'm a versatile professional driven by a passion for process efficiency.
 <p>
