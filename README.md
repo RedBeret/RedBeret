@@ -49,13 +49,13 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
 
 ---
 
-📫 **Contact Information**
+📫 **Contact Information*: espisteven5@gmail.com
 
 😄 **Pronouns**: He/His
 
 ⚡ **Personal Insight**: Residing in a beach city offers a serene environment that complements my professional activities, fostering a balanced lifestyle conducive to high productivity levels.
 ---
-x## 📈 GitHub Metrics  
+## 📈 GitHub Metrics  
 
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: wrap;">
 
@@ -67,16 +67,6 @@ x## 📈 GitHub Metrics
 </a>
 
 </div>
-
-## 📈 GitHub Metrics  
-
-<div style="display: flex; justify-content: space-around;">
-
-[![RedBeret's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/RedBeret/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBeret&layout=compact&theme=tokyonight)](https://github.com/RedBeret/github-readme-stats)
-
-</div>
-
 
 <!--
 ## 🌐 Connect with Me  
