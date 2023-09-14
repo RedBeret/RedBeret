@@ -48,14 +48,25 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
     - Adept at educating and empowering team members, which in turn elevates overall team productivity.
 
 ---
+### 🛠️ **Core Competencies**
+  - **🔍 Strategic Planning**
+    - Specialize in crafting scalable and efficient technology architectures.
+  - **📈 Data-Driven Decision Making**
+    - Employ large datasets to make well-informed decisions, thereby reducing risk and enhancing project success rates.
+  - **🛠️ Troubleshooting Expertise**
+    - Notable for promptly diagnosing and resolving a wide array of technological issues.
+  - **📚 Team Enablement**
+    - Adept at educating and empowering team members, which in turn elevates overall team productivity.
 
-📫 **Contact Information*: espisteven5@gmail.com
+
+📫 **Contact Information**: espisteven5@gmail.com
 
 😄 **Pronouns**: He/His
 
-⚡ **Personal Insight**: Residing in a beach city offers a serene environment that complements my professional activities, fostering a balanced lifestyle conducive to high productivity levels.
+<p style="font-size:14px">⚡ <strong>Personal Insight:</strong> Residing in a beach city offers a serene environment that complements my professional activities, fostering a balanced lifestyle conducive to high productivity levels.</p>
+
 ---
-## 📈 GitHub Metrics  
+## 📈 **GitHub Metrics**  
 
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: wrap;">
 
