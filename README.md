@@ -28,7 +28,8 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
 
 ### 🎓 **Educational Background**
   - **California State University, Fresno**
-    - Bachelor's Degree in Computer Information Systems  
+    - Bachelor's Degree in Business Administration
+    - Emphasis in Computer Information Systems  
   - **Distinguished Honor Graduate, IT Specialist School**
     - Top of my class, focusing on Cisco Network Fundamentals, Routing Protocols, and Security+
   - **Bootcamps**
