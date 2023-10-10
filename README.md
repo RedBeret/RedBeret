@@ -7,7 +7,7 @@
 # 🌐 **About Me**
 > Bridging Systems Engineering with Modern Software Development Practices.
 
-I am a seasoned Systems Engineer with over **16 years** of professional experience. I'm actively diversifying my skill set to include modern software development practices. With a robust background in systems integration and a commitment to *data-driven methodologies*, my aspiration is to deliver multifaceted technological solutions that drive team innovation, operational efficiency, and strategic growth.
+I am a seasoned Systems Engineer with over **16 years** of professional experience. I'm actively diversifying my skill set to include modern software engineering practices. With a robust background in systems integration and a commitment to *data-driven methodologies*, my aspiration is to deliver multifaceted technological solutions that drive team innovation, operational efficiency, and strategic growth.
 
 ---
 
@@ -17,12 +17,12 @@ A versatile Systems Engineer expanding into **software development**. Leveraging
 ---
 
 ### 🛠️ **Current Endeavors**
-I am presently engaged in an intensive full-stack development course with Code Fellows. My focal goal is to transition into a role where I can develop Python-based tools to streamline system integration and team productivity. By March, my plan is to fully apply the skills acquired to transition into a role that enriches technical teams.
+I am presently engaged in an intensive Software Engineering Bootcamp with Flatiron School. My focal goal is to transition into a role where I can develop Python-based tools to streamline system integration and team productivity. By March, my plan is to fully apply the skills acquired to transition into a role that enriches technical teams.
 
 ---
 
 ### 🤝 **Collaboration Ethos**
-Rooted in my career is a strong faith in the value of **collaboration**. As I venture into the realm of software development, my aim is to both contribute to and learn from the tech community, thus fostering relationships that enable continuous mutual growth.
+Rooted in my career is a strong faith in the value of **collaboration**. As I venture into the realm of software engineering, my aim is to both contribute to and learn from the tech community, thus fostering relationships that enable continuous mutual growth.
 
 ---
 
@@ -30,11 +30,10 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
   - **California State University, Fresno**
     - Bachelor's Degree in Business Administration
     - Emphasis in Computer Information Systems  
-  - **Distinguished Honor Graduate, IT Specialist School**
+  - **US Army Distinguished Honor Graduate, IT Specialist School**
     - Top of my class, focusing on Cisco Network Fundamentals, Routing Protocols, and Security+
   - **Bootcamps**
-    - Completed Angela Yu's Web Development Bootcamp
-    - Currently enrolled in Code Fellows, focusing on Python, Django, Data Structures, and Algorithms
+    - Currently enrolled in Flatiron School for Software Engineering
 
 ---
 
