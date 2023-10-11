@@ -1,8 +1,5 @@
 ![HEADER](./github-header-image.png)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=redberet&label=Profile%20views&color=0e75b6&style=flat" alt="redberet" /> 
-</p>
 
 # 🌐 **About Me**
 > Bridging Systems Engineering with Modern Software Development Practices.
