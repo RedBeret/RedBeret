@@ -28,7 +28,7 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
     - Bachelor's Degree in Business Administration
     - Emphasis in Computer Information Systems  
   - **US Army Distinguished Honor Graduate, IT Specialist School**
-    - Top of my class, focusing on Cisco Network Fundamentals, Routing Protocols, and Security+
+    - Top of my class, course covered Cisco Network Fundamentals, Routing Protocols, and Security+
   - **Bootcamps**
     - Currently enrolled in Flatiron School for Software Engineering
 
