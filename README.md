@@ -1,20 +1,22 @@
 ![HEADER](./github-header-image.png)
 
-
-# 🌐 **About Me**
-> Bridging Systems Engineering with Modern Software Development Practices.
-
-I am a seasoned Systems Engineer with over **16 years** of professional experience. I'm actively diversifying my skill set to include modern software engineering practices. With a robust background in systems integration and a commitment to *data-driven methodologies*, my aspiration is to deliver multifaceted technological solutions that drive team innovation, operational efficiency, and strategic growth.
+### 🚀 **Software Engineer & Systems Strategist** 
+Bridging Systems Engineering with Cutting-Edge Software Development
 
 ---
 
-## 📈 **Elevator Pitch**
-A versatile Systems Engineer expanding into **software development**. Leveraging a career founded on technical precision and strategic problem-solving, my aim is to offer holistic solutions that bridge system administration, software engineering, and other adjacent technological disciplines.
+### 🌐 **About Me**
+I'm a seasoned Systems Engineer turned Software Engineer, blending over 16 years of tech expertise with modern software practices. Driven by data and a passion for efficiency, I'm on a mission to engineer multifaceted technological solutions that drive team innovation, operational efficiency, and strategic growth.
 
 ---
 
-### 🛠️ **Current Endeavors**
-I am presently engaged in an intensive Software Engineering Bootcamp with Flatiron School. My focal goal is to transition into a role where I can develop Python-based tools to streamline system integration and team productivity. By March, my plan is to fully apply the skills acquired to transition into a role that enriches technical teams.
+### 🛠️ **Current Chapter**
+Evolving through an intensive Software Engineering journey at Flatiron School, I'm honing my skills in Python and other technologies to revolutionize system integration and team productivity.
+
+---
+
+### 📈 **Elevator Pitch**
+A versatile Systems Engineer transitioning into software development. With a career built on meticulous technical skills and strategic problem-solving, I aspire to create comprehensive solutions that seamlessly integrate software engineering into various technology fields.
 
 ---
 
@@ -31,19 +33,7 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
     - Top of my class, course covered Cisco Network Fundamentals, Routing Protocols, and Security+
   - **Bootcamps**
     - Currently enrolled in Flatiron School for Software Engineering
-
----
-
-### 🛠️ **Core Competencies**
-  - **🔍 Strategic Planning**
-    - Specialize in crafting scalable and efficient technology architectures.
-  - **📈 Data-Driven Decision Making**
-    - Employ large datasets to make well-informed decisions, thereby reducing risk and enhancing project success rates.
-  - **🛠️ Troubleshooting Expertise**
-    - Notable for promptly diagnosing and resolving a wide array of technological issues.
-  - **📚 Team Enablement**
-    - Adept at educating and empowering team members, which in turn elevates overall team productivity.
-
+      
 ---
 ### 🛠️ **Core Competencies**
   - **🔍 Strategic Planning**
@@ -58,7 +48,7 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
 
 📫 **Contact Information**: espisteven5@gmail.com
 
-😄 **Pronouns**: He/His
+👨🏽 **Pronouns**: He/His
 
 <p style="font-size:14px">⚡ <strong>Personal Insight:</strong> Residing in a beach city offers a serene environment that complements my professional activities, fostering a balanced lifestyle conducive to high productivity levels.</p>
 
@@ -76,23 +66,7 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
 
 </div>
 
-<!--
-## 🌐 Connect with Me  
-
-<h4 align="left">Feel free to reach out on these platforms:</h4>
-
-<div align="left">
-
-<a href="https://dev.to/redberet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="redberet" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/redberet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="redberet" height="30" width="40" /></a>
-<a href="https://codesandbox.com/redberet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="redberet" height="30" width="40" /></a>
-<a href="https://medium.com/@redberet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@redberet" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/redberet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="redberet" height="30" width="40" /></a>
-
-</div>
--->
 ---
-
 ## 🛠️ Languages and Tools  
 
 <h4 align="left">I regularly work with:</h4>
