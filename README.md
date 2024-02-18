@@ -6,12 +6,13 @@ Bridging Systems Engineering with Cutting-Edge Software Development
 ---
 
 ### 🌐 **About Me**
-I'm a seasoned Systems Engineer turned Software Engineer, blending over 16 years of tech expertise with modern software practices. Driven by data and a passion for efficiency, I'm on a mission to engineer multifaceted technological solutions that drive team innovation, operational efficiency, and strategic growth.
+With over 16 years of technology expertise, I am a Software Engineer and Systems Engineer, specializing in the development and integration of complex military systems. My core strength lies in leading small teams, where I excel in breaking down projects into manageable tasks, prioritizing effectively to meet strategic objectives. My approach combines a deep technical background with modern software development methodologies, driven by a passion for efficiency and data-driven decision-making. I am dedicated to leveraging my multifaceted technology expertise to engineer solutions that enhance team innovation, operational efficiency, and drive strategic growth. My mission is to apply my leadership and project management skills to overcome challenges and deliver significant value.
+
 
 ---
 
 ### 🛠️ **Current Chapter**
-Evolving through an intensive Software Engineering journey at Flatiron School, I'm honing my skills in Python and other technologies to revolutionize system integration and team productivity.
+Having graduated from Flatiron School SW Engineering Bootcamp, my Software Engineering journey has transitioned into a new chapter where I'm leveraging my Python expertise and other technological skills to redefine system integration and elevate team productivity. Currently, my work involves automating and enhancing integrity solutions, focusing on adding robust validations and improving the existing automation systems utilized by the Navy. In parallel, I'm expanding my knowledge in Natural Language Processing (NLP) techniques, for example to refine regex-based methods for sensitive data extraction from databases. This phase of my career is dedicated to applying advanced software solutions to solve complex challenges, thereby contributing to more efficient and secure systems.
 
 ---
 
@@ -31,8 +32,8 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
     - Emphasis in Computer Information Systems  
   - **US Army Distinguished Honor Graduate, IT Specialist School**
     - Top of my class, course covered Cisco Network Fundamentals, Routing Protocols, and Security+
-  - **Bootcamps**
-    - Currently enrolled in Flatiron School for Software Engineering
+  - **Flatiron School, Software Engineering Bootcamp**
+    - Graduated with a focus on full-stack development, mastering technologies such as Python, JavaScript, React, Redux, and engaging deeply with software engineering principles. A significant highlight was leading the development of "AiChatPoweredEcommerce" for my capstone project. This innovative project combines AI and e-commerce to enhance online shopping experiences through AI-driven chat support. By integrating Flask and React with OpenAI's GPT for NLP, I implemented a chatbot that offers personalized technical customer service, setting a new standard in digital retail. This endeavor not only solidified my skills in software development but also in applying NLP and machine learning techniques to practical challenges. The project underscored the importance of security, using SQLite/PostgreSQL for database management, and bcrypt for secure authentication, showcasing my ability to design and deploy secure, responsive, and user-centric applications.
       
 ---
 ### 🛠️ **Core Competencies**
