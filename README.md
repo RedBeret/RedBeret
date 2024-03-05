@@ -6,23 +6,24 @@ Bridging Systems Engineering with Cutting-Edge Software Development
 ---
 
 ### 🌐 **About Me**
-With over 16 years of technology expertise, I am a Software Engineer and Systems Engineer, specializing in the development and integration of complex military systems. My core strength lies in leading small teams, where I excel in breaking down projects into manageable tasks, prioritizing effectively to meet strategic objectives. My approach combines a deep technical background with modern software development methodologies, driven by a passion for efficiency and data-driven decision-making. I am dedicated to leveraging my multifaceted technology expertise to engineer solutions that enhance team innovation, operational efficiency, and drive strategic growth. My mission is to apply my leadership and project management skills to overcome challenges and deliver significant value.
-
+With a solid foundation of 16 years in technology and a distinguished background as an Army veteran, I embody the discipline and strategic thinking of a seasoned Software and Systems Engineer. My expertise spans the development and integration of sophisticated military systems, where I've honed my skills in leading specialized teams through complex projects. My approach is methodical and data-driven, balancing technical acumen with modern software practices to optimize team performance and achieve ambitious goals. Driven by a passion for problem-solving and efficiency, I'm dedicated to engineering solutions that bolster innovation and strategic growth.
 
 ---
 
 ### 🛠️ **Current Chapter**
-Having graduated from Flatiron School SW Engineering Bootcamp, my Software Engineering journey has transitioned into a new chapter where I'm leveraging my Python expertise and other technological skills to redefine system integration and elevate team productivity. Currently, my work involves automating and enhancing integrity solutions, focusing on adding robust validations and improving the existing automation systems utilized by the Navy. In parallel, I'm expanding my knowledge in Natural Language Processing (NLP) techniques, for example to refine regex-based methods for sensitive data extraction from databases. This phase of my career is dedicated to applying advanced software solutions to solve complex challenges, thereby contributing to more efficient and secure systems.
+Fresh from the Flatiron School's Software Engineering Bootcamp, I'm at a pivotal moment, ready to leverage my enriched toolkit of coding skills and strategic insights. My journey has transitioned from the structured world of systems engineering to the dynamic realm of software development, where I'm keen to apply my disciplined mindset to new challenges.
+
+Reconnecting with my roots as a Senior Systems Engineer, I'm not merely returning—I'm advancing. My focus is on mastering solutions architecture and machine learning, with a disciplined approach to daily Python practice which can be seen in my commits. My goal is to make a meaningful impact, applying precision and innovation to each challenge.
 
 ---
 
 ### 📈 **Elevator Pitch**
-A versatile Systems Engineer transitioning into software development. With a career built on meticulous technical skills and strategic problem-solving, I aspire to create comprehensive solutions that seamlessly integrate software engineering into various technology fields.
+I am a Systems Engineer and Army veteran transitioning into software development with a career underpinned by rigorous technical skills and a strategic mindset. I aim to forge comprehensive solutions that integrate software engineering with the precision and efficiency characteristic of military training.
 
 ---
 
 ### 🤝 **Collaboration Ethos**
-Rooted in my career is a strong faith in the value of **collaboration**. As I venture into the realm of software engineering, my aim is to both contribute to and learn from the tech community, thus fostering relationships that enable continuous mutual growth.
+Collaboration has always been a cornerstone of my career, rooted in the belief that collective effort fosters mutual growth. As I navigate the software engineering landscape, my aim is to contribute to and learn from the tech community, building relationships that enhance our collective expertise and drive innovation.
 
 ---
 
@@ -33,19 +34,34 @@ Rooted in my career is a strong faith in the value of **collaboration**. As I ve
   - **US Army Distinguished Honor Graduate, IT Specialist School**
     - Top of my class, course covered Cisco Network Fundamentals, Routing Protocols, and Security+
   - **Flatiron School, Software Engineering Bootcamp**
-    - Graduated with a focus on full-stack development, mastering technologies such as Python, JavaScript, React, Redux, and engaging deeply with software engineering principles. A significant highlight was leading the development of "AiChatPoweredEcommerce" for my capstone project. This innovative project combines AI and e-commerce to enhance online shopping experiences through AI-driven chat support. By integrating Flask and React with OpenAI's GPT for NLP, I implemented a chatbot that offers personalized technical customer service, setting a new standard in digital retail. This endeavor not only solidified my skills in software development but also in applying NLP and machine learning techniques to practical challenges. The project underscored the importance of security, using SQLite/PostgreSQL for database management, and bcrypt for secure authentication, showcasing my ability to design and deploy secure, responsive, and user-centric applications.
+    - Mastered full-stack development, delving into Python, JavaScript, React, Redux, and software engineering principles. A capstone project, "AiChatPoweredEcommerce," showcased my ability to enhance digital retail through innovative NLP applications, employing OpenAI's GPT for chatbot integration and ensuring secure, user-centric application development with Flask, React, and secure authentication practices.
       
 ---
-### 🛠️ **Core Competencies**
-  - **🔍 Strategic Planning**
-    - Specialize in crafting scalable and efficient technology architectures.
-  - **📈 Data-Driven Decision Making**
-    - Employ large datasets to make well-informed decisions, thereby reducing risk and enhancing project success rates.
-  - **🛠️ Troubleshooting Expertise**
-    - Notable for promptly diagnosing and resolving a wide array of technological issues.
-  - **📚 Team Enablement**
-    - Adept at educating and empowering team members, which in turn elevates overall team productivity.
 
+### 🛠️ **Core Competencies**
+
+- **👨‍💻 Software Engineering & Development**
+  - Proficient in Python, JavaScript, and React, with a comprehensive understanding of full-stack development practices. Demonstrated ability to lead front-end and back-end development, database management, and API integration projects.
+
+- **🤖 Machine Learning & Data Analysis**
+  - Keen interest in leveraging machine learning to solve real-world problems. Skilled in applying Python for data analysis and machine learning projects, with a knack for transforming complex datasets into actionable insights.
+
+- **🔧 Agile Methodologies & Project Management**
+  - Certified in Agile, SEC+, CCNA, and AWS, with extensive experience in leading Scrum, Agile, and Kanban initiatives. Expertise in optimizing project delivery and reporting through effective project management processes.
+
+- **🌍 Global Perspective & Adaptability**
+  - World traveler with experiences across various cultures, enhancing adaptability, problem-solving skills, and global perspective. These experiences contribute to a unique approach to software development, embracing creativity, adaptability, and a comprehensive worldview.
+
+- **🔗 Systems Integration & Technical Leadership**
+  - Led the integration of over 50 US Navy ships, showcasing strong capabilities in managing large-scale projects and complex technical environments. Excel at connecting technical teams with executive management through strategic planning and clear communication.
+
+- **🛡️ Cybersecurity & Network Infrastructure**
+  - Solid foundation in cybersecurity practices and network infrastructure, underpinned by hands-on experience and certifications in SEC+, CCNA, and AWS. Committed to ensuring robust security and compliance across all software development and systems integration projects.
+
+- **👥 Collaboration & Team Empowerment**
+  - Deep belief in the power of collaboration and team empowerment, with a track record of building and nurturing teams that innovate and excel. Passionate about sharing knowledge and fostering an environment where team members are encouraged to grow and excel.
+
+---
 
 📫 **Contact Information**: espisteven5@gmail.com
 
