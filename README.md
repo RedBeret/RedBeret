@@ -1,7 +1,7 @@
 ![HEADER](./github-header-image.png)
 
 ### 🚀 **Software Engineer & Systems Strategist** 
-Bridging Systems Engineering with Cutting-Edge Software Development
+👋 Welcome to my GitHub! I’m on a mission to blend my extensive systems engineering experience with modern software development practices. Despite the challenges of balancing a demanding job in a physical lab, my evenings and weekends are dedicated to honing my coding skills. I believe in lifelong learning and the power of community support in navigating career transitions. If my journey resonates with you or you see an opportunity where we can collaborate or learn together, please don’t hesitate to reach out to my linkedin on the side (preferred) or email. Let's innovate and grow together!
 
 ---
 
