@@ -102,11 +102,6 @@ Synthetic, Windows-first training labs for engineers learning automation without
 
 ### 📊 GitHub
 
-<a href="https://github.com/RedBeret">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBeret&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake.svg" />
