@@ -18,7 +18,7 @@
 
 Senior systems engineer and Army veteran with 12+ years in IT, network engineering, and full-stack development. I'm a core contributor on a research-grant project building an AI-assisted network healing tool, applying LLM distillation for real-time anomaly detection on edge hardware.
 
-Evenings and weekends I build AI agent tooling, repo hygiene CLIs, and synthetic network labs. Most of what I publish here started as something I needed for my own work, then got cleaned up so others could use it.
+Evenings and weekends I build AI agent tooling, repo hygiene CLIs, and synthetic network labs. All of it is independent of my employer and built on my own time. It's how I keep current on newer tech: what holds up, what doesn't, and what I should bring back to my work.
 
 ---
 
