@@ -96,6 +96,8 @@ Synthetic Windows-first training labs for engineers learning automation without 
 
 ### 📊 GitHub
 
+The activity below reflects public side projects only. Most of my engineering happens at work and doesn't push to public GitHub, so this graph understates my actual output.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake.svg" />
