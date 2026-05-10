@@ -1,110 +1,124 @@
-![HEADER](./github-header-image.png)
+<p align="center">
+  <img src="github-header-image.png" alt="Steven Espinoza" />
+</p>
 
-### 🚀 **Software Engineer & Systems Strategist** 
-👋 Welcome to my GitHub! I’m on a mission to blend my extensive systems engineering experience with modern software development practices. Despite the challenges of balancing a demanding job in a physical lab, my evenings and weekends are dedicated to honing my coding skills. I believe in lifelong learning and the power of community support in navigating career transitions. If my journey resonates with you or you see an opportunity where we can collaborate or learn together, please don’t hesitate to reach out to my linkedin on the side (preferred) or email. Let's innovate and grow together!
+<h3 align="center">Senior Systems Engineer · AI/ML Builder · Army Veteran</h3>
 
----
+<p align="center">
+  <em>Veteran turned code trooper — battling bugs like it's Klendathu, armed with wit, grit, and entirely too much coffee.</em>
+</p>
 
-### 🌐 **About Me**
-With a solid foundation of 16 years in technology and a distinguished background as an Army veteran, I embody the discipline and strategic thinking of a seasoned Software and Systems Engineer. My expertise spans the development and integration of sophisticated military systems, where I've honed my skills in leading specialized teams through complex projects. My approach is methodical and data-driven, balancing technical acumen with modern software practices to optimize team performance and achieve ambitious goals. Driven by a passion for problem-solving and efficiency, I'm dedicated to engineering solutions that bolster innovation and strategic growth.
-
----
-
-### 🛠️ **Current Chapter**
-Fresh from the Flatiron School's Software Engineering Bootcamp, I'm at a pivotal moment, ready to leverage my enriched toolkit of coding skills and strategic insights. My journey has transitioned from the structured world of systems engineering to the dynamic realm of software development, where I'm keen to apply my disciplined mindset to new challenges.
-
-Reconnecting with my roots as a Senior Systems Engineer, I'm not merely returning—I'm advancing. My focus is on mastering solutions architecture and machine learning, with a disciplined approach to daily Python practice which can be seen in my commits. My goal is to make a meaningful impact, applying precision and innovation to each challenge.
-
----
-
-### 📈 **Elevator Pitch**
-I am a Systems Engineer and Army veteran transitioning into software development with a career underpinned by rigorous technical skills and a strategic mindset. I aim to forge comprehensive solutions that integrate software engineering with the precision and efficiency characteristic of military training.
+<p align="center">
+  <a href="https://stevenespinoza.dev">stevenespinoza.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/stevenespinoza/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:espisteven5@gmail.com">espisteven5@gmail.com</a>
+</p>
 
 ---
 
-### 🤝 **Collaboration Ethos**
-Collaboration has always been a cornerstone of my career, rooted in the belief that collective effort fosters mutual growth. As I navigate the software engineering landscape, my aim is to contribute to and learn from the tech community, building relationships that enhance our collective expertise and drive innovation.
+### 👋 About
+
+Senior systems engineer and Army veteran with 12+ years across IT, network engineering, and full-stack development. Selected for a research grant to build an AI-assisted network healing tool — applying LLM distillation to real-time anomaly detection on resource-constrained edge hardware. Evenings and weekends I ship small, sharp tools in public: AI agent ergonomics, repo hygiene, and synthetic network labs.
+
+I work the boring-but-critical layer where systems engineering meets developer tooling — the things that quietly go wrong in week three of any long-running setup.
 
 ---
 
-### 🎓 **Educational Background**
-  - **California State University, Fresno**
-    - Bachelor's Degree in Business Administration
-    - Emphasis in Computer Information Systems  
-  - **US Army Distinguished Honor Graduate, IT Specialist School**
-    - Top of my class, course covered Cisco Network Fundamentals, Routing Protocols, and Security+
-  - **Flatiron School, Software Engineering Bootcamp**
-    - Mastered full-stack development, delving into Python, JavaScript, React, Redux, and software engineering principles. A capstone project, "AiChatPoweredEcommerce," showcased my ability to enhance digital retail through innovative NLP applications, employing OpenAI's GPT for chatbot integration and ensuring secure, user-centric application development with Flask, React, and secure authentication practices.
-      
+### 🚀 What I'm building
+
+Most of my repos are small, sharp, single-purpose tools that compose well — built first because I needed them, then polished so others can use them too.
+
+#### 🤖 AI & LLM tooling
+
+| Repo | What it does |
+|---|---|
+| [`awesome-ollama-models`](https://github.com/RedBeret/awesome-ollama-models) | Curated list of the best free Ollama cloud models with benchmarks and use cases |
+| [`ollama-model-router`](https://github.com/RedBeret/ollama-model-router) | CLI that auto-picks the best free Ollama cloud model for your prompt |
+| [`claude-code-recipes`](https://github.com/RedBeret/claude-code-recipes) | Production-ready patterns for building with the Claude Code SDK — rate limits, memory, MCP, parallelism |
+| [`ai-ops-runbook`](https://github.com/RedBeret/ai-ops-runbook) | Paste an alert or incident → get a structured operational runbook in seconds |
+| [`AIChatPoweredEcommerce`](https://github.com/RedBeret/AIChatPoweredEcommerce) | Full-stack e-commerce platform with NLP-driven product discovery (Flask + React + OpenAI) |
+
+#### 🛡️ Repo hygiene & agent security
+
+Small CLIs that catch the things you don't want strangers finding in your repos.
+
+| Repo | What it does |
+|---|---|
+| [`agent-security-kit`](https://github.com/RedBeret/agent-security-kit) | Guardrails for AI-assisted coding agents — blocks secret leaks and dangerous commands |
+| [`git-clean-history`](https://github.com/RedBeret/git-clean-history) | Scans git repos for secrets across history (AWS, Azure, GCP, OpenAI, Stripe, GitHub patterns) |
+| [`repo-first-aid`](https://github.com/RedBeret/repo-first-aid) | Audit public-repo trust signals and polish first-impression issues before strangers find them |
+
+#### 🛰️ Engineering control centers
+
+Full-stack workspaces for repo health, telemetry, and post-run analysis — Python/FastAPI back ends, React/TypeScript front ends.
+
+| Repo | What it does |
+|---|---|
+| [`repo-flight-deck`](https://github.com/RedBeret/repo-flight-deck) | Engineering control center for repo health, CI status, security alerts, PR risk scoring |
+| [`telemetry-replay-studio`](https://github.com/RedBeret/telemetry-replay-studio) | Replay and debrief workspace — compare runs, score outcomes, export findings |
+
+#### 🌐 Network automation labs
+
+Synthetic, Windows-first training labs for engineers learning automation without provisioning real infrastructure.
+
+| Repo | What it does |
+|---|---|
+| [`ansible-convergence-lab`](https://github.com/RedBeret/ansible-convergence-lab) | Synthetic Ansible training lab — learn the automation loop with safe RFC5737 IPs and zero remote hosts |
+
+#### 🎮 Just for fun
+
+[`tiny-swarm-maze`](https://github.com/RedBeret/tiny-swarm-maze) — swarm-sim game with FastAPI + Ollama command parsing &nbsp;·&nbsp;
+[`neon-grid-hacker`](https://github.com/RedBeret/neon-grid-hacker) — cyberpunk isometric puzzle game (TypeScript + React) &nbsp;·&nbsp;
+[`Fitness-Coach-Python-SQL-CLI`](https://github.com/RedBeret/Fitness-Coach-Python-SQL-CLI) — terminal fitness coach with SQLite + Click + Rich
+
 ---
 
-### 🛠️ **Core Competencies**
+### 🛠️ Stack
 
-- **👨‍💻 Software Engineering & Development**
-  - Proficient in Python, JavaScript, and React, with a comprehensive understanding of full-stack development practices. Demonstrated ability to lead front-end and back-end development, database management, and API integration projects.
+**Languages:** Python · TypeScript · JavaScript · React · Bash · PowerShell
 
-- **🤖 Machine Learning & Data Analysis**
-  - Keen interest in leveraging machine learning to solve real-world problems. Skilled in applying Python for data analysis and machine learning projects, with a knack for transforming complex datasets into actionable insights.
+**AI / ML:** LLMs · model distillation · edge inference · Ollama · OpenAI · Claude SDK · prompt engineering
 
-- **🔧 Agile Methodologies & Project Management**
-  - Certified in Agile, SEC+, CCNA, and AWS, with extensive experience in leading Scrum, Agile, and Kanban initiatives. Expertise in optimizing project delivery and reporting through effective project management processes.
+**Cloud / infra:** AWS · Docker · Ansible · GitHub Actions · GitLab CI
 
-- **🌍 Global Perspective & Adaptability**
-  - World traveler with experiences across various cultures, enhancing adaptability, problem-solving skills, and global perspective. These experiences contribute to a unique approach to software development, embracing creativity, adaptability, and a comprehensive worldview.
+**Networking / sysadmin:** Cisco IOS · Active Directory · DNS/DHCP · WSL
 
-- **🔗 Systems Integration & Technical Leadership**
-  - Led the integration of over 50 US Navy ships, showcasing strong capabilities in managing large-scale projects and complex technical environments. Excel at connecting technical teams with executive management through strategic planning and clear communication.
-
-- **🛡️ Cybersecurity & Network Infrastructure**
-  - Solid foundation in cybersecurity practices and network infrastructure, underpinned by hands-on experience and certifications in SEC+, CCNA, and AWS. Committed to ensuring robust security and compliance across all software development and systems integration projects.
-
-- **👥 Collaboration & Team Empowerment**
-  - Deep belief in the power of collaboration and team empowerment, with a track record of building and nurturing teams that innovate and excel. Passionate about sharing knowledge and fostering an environment where team members are encouraged to grow and excel.
+**Testing & QA:** Robot Framework · pytest · automated regression pipelines
 
 ---
 
-📫 **Contact Information**: espisteven5@gmail.com
+### 🎓 Certs & Education
 
-👨🏽 **Pronouns**: He/His
+**Certifications** &nbsp;·&nbsp; CSPO &nbsp;·&nbsp; CSM &nbsp;·&nbsp; AWS Cloud Practitioner &nbsp;·&nbsp; CCNA &nbsp;·&nbsp; CompTIA Security+
 
-<p style="font-size:14px">⚡ <strong>Personal Insight:</strong> Residing in a beach city offers a serene environment that complements my professional activities, fostering a balanced lifestyle conducive to high productivity levels.</p>
+**Education**
+- B.S. Business Administration, Computer Information Systems — California State University, Fresno
+- Software Engineering Certificate (Full-Stack: Python, React, Flask, JS, SQL) — Flatiron School
+- IT Specialist (25B MOS) — U.S. Army Cyber Center of Excellence — *Distinguished Honor Graduate*
 
 ---
-## 📈 **GitHub Metrics**  
 
-<div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: wrap;">
+### 📊 GitHub
 
-<a href="https://github.com/RedBeret/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight" style="max-width: 48%;">
+<a href="https://github.com/RedBeret">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RedBeret&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBeret&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
-<a href="https://github.com/RedBeret/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBeret&layout=compact&theme=tokyonight" style="max-width: 48%;">
-</a>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation eating my contributions" src="https://raw.githubusercontent.com/RedBeret/RedBeret/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RedBeret&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
 ---
-## 🛠️ Languages and Tools  
 
-<h4 align="left">I regularly work with:</h4>
-
-<div align="left">
-
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="ejs" width="40" height="40"/> </a> 
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> </a>
-
-</div>
+<p align="center">
+  <em>Find one of these useful? ⭐ the repo. PRs welcome — open an issue first for anything bigger than a typo fix.</em>
+</p>
