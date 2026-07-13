@@ -22,6 +22,21 @@ Everything here is independent side work, built on my own time, MIT licensed.
 
 ---
 
+### 🧭 Forward Deployed Engineering Flagships
+
+Five connected projects built as one field-engineering workflow: realistic source data,
+measurable cleanup, RAG evaluation, offline delivery and database drift detection.
+
+| Project | What it proves |
+|---|---|
+| [`acme-parts-cloud`](https://github.com/RedBeret/acme-parts-cloud) | One-command synthetic enterprise API, UI, Postgres data, deterministic messiness and manifest-v2 ground truth |
+| [`fde-data-forge`](https://github.com/RedBeret/fde-data-forge) | Exact row-key defect scoring with published recall, precision, F1, false positives and misses |
+| [`rag-eval-bench`](https://github.com/RedBeret/rag-eval-bench) | Retrieval metrics, unanswerable-question scoring, refusal behavior, a versioned judge rubric and a blinded human-agreement workflow |
+| [`air-gap-deploy-kit`](https://github.com/RedBeret/air-gap-deploy-kit) | Explicit offline bundles, standalone transfer verification and fail-closed rehearsal with image pulls and networking disabled |
+| [`pgdrift`](https://github.com/RedBeret/pgdrift) | Deterministic Postgres schema snapshots and categorized drift detection for CI and field debugging |
+
+---
+
 ### 🛰️ Field & Edge Operations
 
 Built around the constraint that the network may not be there and the data may not be clean.
